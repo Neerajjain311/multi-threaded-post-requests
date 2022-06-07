@@ -18,6 +18,6 @@ Develop system to raise HTTP POST requests with provided Activity Data - to give
 ## Future Roadmap
 - [ ] Validating it on a live endpoint
 - [ ] Handle more edge cases - what if the activity id is corrupt? what if the activity is already processed?
-- [ ] Study and refine the rate limit handling logic
+- [ ] Study and refine the rate limit exception handling logic
 
 
