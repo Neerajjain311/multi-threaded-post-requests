@@ -4,8 +4,8 @@
 Develop system to raise HTTP POST requests with provided Activity Data - to given list of URL endpoints - in parallel and handle errors gracefully.
 
 ## Assumptions
-1. Auth and other details are provided and need not be worried about.
-2. The list of URL endpoints are correct.
+1. Auth and other details are provided and need not be worried about while making the POST request.
+2. The list of URL endpoints provided are correct, and need no modifications.
 3. The data (Activity Data) needs to be validated prior syncing it with other systems - the values shouldn't be empty and must be of specific types.
 
 ## Key Learnings
