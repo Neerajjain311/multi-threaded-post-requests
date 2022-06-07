@@ -1,4 +1,4 @@
-# Multithreading using Python
+# Multithreaded POST requests using Python
 
 ## Task In Hand
 Develop system to raise HTTP POST requests with provided Activity Data - to given list of URL endpoints - in parallel and handle errors gracefully.
@@ -14,3 +14,10 @@ Develop system to raise HTTP POST requests with provided Activity Data - to give
 - Multithreading - using Thread (i.e. without ThreadPoolExecutor)
 - Multithreading using ThreadPoolExecutor
 - Revised Python Syntax ;)
+
+## Future Roadmap
+[] Validating it on a live endpoint
+[] Handle more edge cases - what if the activity id is corrupt? what if the activity is already processed?
+[] Study and refine the rate limit handling logic
+
+
