@@ -7,3 +7,10 @@ Develop system to raise HTTP POST requests with provided Activity Data - to give
 1. Auth and other details are provided and need not be worried about.
 2. The list of URL endpoints are correct.
 3. The data (Activity Data) must be validated prior syncing it with other systems.
+
+## Key Learnings
+- Revised Logging concepts
+- Skimmed through Requests module
+- Multithreading - using Thread (i.e. without ThreadPoolExecutor)
+- Multithreading using ThreadPoolExecutor
+- Revised Python Syntax ;)
