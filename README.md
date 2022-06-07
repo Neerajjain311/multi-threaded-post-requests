@@ -1,7 +1,7 @@
 # Multithreading using Python
 
 ## Task In Hand
-Develop a program to raise HTTP POST requests with provided Activity Data - to given list of URL endpoints.
+Develop system to raise HTTP POST requests with provided Activity Data - to given list of URL endpoints - in parallel and handle errors gracefully.
 
 ## Assumptions
 1. Auth and other details are provided and need not be worried about.
