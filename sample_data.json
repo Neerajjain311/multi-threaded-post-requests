@@ -1,0 +1,55 @@
+{
+    "activities":
+    [
+        {
+            "activity_id":"1",
+            "activity_info":{
+                "event_id":"event 1",
+                "user_id":"user 1",
+                "activity_time":10,
+                "activity_type":"like",
+                "activity_data":"user liked the presentation"
+            }
+        },
+        {
+            "activity_id":"2",
+            "activity_info":{
+                "event_id":"event 2",
+                "user_id":"user 2",
+                "activity_time":"12",
+                "activity_type":"text",
+                "activity_data":"user responded with an answer"
+            }
+        },
+        {
+            "activity_id":"3",
+            "activity_info":{
+                "event_id":"event 3",
+                "user_id":"user 2",
+                "activity_time":15,
+                "activity_type":"clap",
+                "activity_data":"user clapped for the presentation"
+            }
+        },
+        {
+            "activity_id":"4",
+            "activity_info":{
+                "event_id":"event 4",
+                "user_id":"",
+                "activity_time":20,
+                "activity_type":"text",
+                "activity_data":"user responded with a question"
+            }
+        },
+        {
+            "activity_id":"5",
+            "activity_info":{
+                "event_id":"event 5",
+                "user_id":"user 5",
+                "activity_time":25,
+                "activity_type":"emoji",
+                "activity_data":"user shared an emoji"
+            }
+        }
+    ]
+}
